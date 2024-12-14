@@ -135,7 +135,7 @@
 }
 
 .form-card {
-  width: 280px;
+  width: 300px;
   height: 350px;
   border-radius: 1.2rem;
   background-color: #fff;
@@ -185,14 +185,14 @@
 
 .form-card-input-bg {
   content: '';
-  width: 240px;
+  width: 250px;
   height: 60px;
   margin: auto;
   inset: 0;
   bottom: 10px;
   position: absolute;
   z-index: 1;
-  border-radius: 12px;
+  border-radius: 100px;
   background-color: #A8DADC;
 }
 
